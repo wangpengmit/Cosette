@@ -1,7 +1,8 @@
 [package]
 name = "uexp"
 version = "0.1"
-lean_version = "master"
+# lean_version = "master"
+# lean_version = "leanprover-community/lean:3.49.1"
 path = "src"
 
 [dependencies]
