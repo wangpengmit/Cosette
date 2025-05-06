@@ -1,0 +1,10 @@
+name = "LeanSql"
+version = "0.1.0"
+defaultTargets = ["leansql"]
+
+[[lean_lib]]
+name = "LeanSql"
+
+[[lean_exe]]
+name = "leansql"
+root = "Main"
